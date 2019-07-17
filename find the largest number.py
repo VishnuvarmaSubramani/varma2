@@ -1,0 +1,5 @@
+x=int(input())
+y=list(input().split())
+y.sort()
+y.reverse()
+print("".join(y))
