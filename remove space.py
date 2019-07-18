@@ -1,3 +1,3 @@
-x=input('')
-y=x.replace(' ','')
-print(y)
+string=input('')
+replaced=string.replace(' ','')
+print(replaced)
